@@ -1,0 +1,22 @@
+body {
+    background-color: #EDD94C;
+}
+
+div,nav,image {
+    border: 5px dotted black;
+}
+
+div {
+    width: 50%;
+    text-align: center;
+    
+}
+
+nav {
+    width: fit-content;
+    text-align: left;
+}
+
+.firstClass {
+    background-color: red;
+}
